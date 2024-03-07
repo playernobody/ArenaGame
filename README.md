@@ -35,7 +35,7 @@ To run the game, follow these steps:
 Unit tests have been provided to ensure the correctness of the solution. To run the unit tests, follow the same steps as above, but instead of running the main program, run the unit test program using the following command:
 
 Input 1:
-
+```
 Monkey
 100
 10
@@ -44,9 +44,9 @@ Hero
 101
 20
 4
-
+```
 Input 2:
-
+```
 Herclues
 59
 5
@@ -55,9 +55,9 @@ Jeus
 87
 10
 3
-
+```
 Input 3:
-
+```
 MrTojo
 98
 12
@@ -66,3 +66,4 @@ Rubelo
 199
 10
 3
+```
